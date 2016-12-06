@@ -9,7 +9,9 @@ import java.util.GregorianCalendar;
 
 import xyz.yhsj.yhutils.logutils.LogUtils;
 
-
+/**
+ * 获取日期和时间的工具类
+ */
 public class DateUtils {
 
     private final static long minute = 60 * 1000;// 1分钟
@@ -298,9 +300,9 @@ public class DateUtils {
     }
 
     /**
-     * 获取当前小时
+     * 获取当前分钟
      *
-     * @return 小时
+     * @return 分钟
      */
     public static String getMinute() {
         return format(getCurrentTime(), "mm");

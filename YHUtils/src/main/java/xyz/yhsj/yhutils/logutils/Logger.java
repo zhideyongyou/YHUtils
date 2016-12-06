@@ -276,7 +276,7 @@ public final class Logger implements Printer {
 	/**
 	 * 弹出log信息
 	 *
-	 * @param context
+	 * @param context 上下文
 	 * @param object
 	 */
 	public void alert(final Context context, Object object) {

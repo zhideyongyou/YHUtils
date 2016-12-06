@@ -24,7 +24,7 @@ public class AppUtils {
     /**
      * 获得APP的名称
      *
-     * @param context
+     * @param context 上下文
      * @return
      */
     public static String getAppName(Context context) {
@@ -48,6 +48,8 @@ public class AppUtils {
     /**
      * need < uses-permission android:name =“android.permission.GET_TASKS” />
      * 判断是否前台运行
+     *
+     * @param context 上下文
      */
     public static boolean isRunningForeground(Context context) {
         ActivityManager am = (ActivityManager) context.getSystemService(Context.ACTIVITY_SERVICE);
@@ -64,6 +66,9 @@ public class AppUtils {
 
     /**
      * 获取应用程序包名
+     *
+     * @param context 上下文
+     * @return
      */
     public static String getPackageName(Context context) {
         if (context == null) {
@@ -80,7 +85,7 @@ public class AppUtils {
      * 启动APK的默认Activity
      *
      * @param activity
-     * @param packageName
+     * @param packageName 包名
      */
     public static void startApkActivity(final Context activity,
                                         String packageName) throws Exception {
@@ -123,7 +128,7 @@ public class AppUtils {
     /**
      * 检查有没有应用程序来接受处理你发出的intent
      *
-     * @param context
+     * @param context 上下文
      * @param action
      * @return
      */

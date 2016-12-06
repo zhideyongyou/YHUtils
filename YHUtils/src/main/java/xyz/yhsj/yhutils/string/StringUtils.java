@@ -47,8 +47,8 @@ public final class StringUtils {
     /**
      * 将长字符从截取剩下的用...代替
      *
-     * @param input
-     * @param count
+     * @param input 　内容
+     * @param count 截取的长度
      * @return
      */
     public static String cutString(String input, int count) {
@@ -58,9 +58,9 @@ public final class StringUtils {
     /**
      * 将长字符从截取剩下的用more代替,more为空则用省略号代替
      *
-     * @param input
-     * @param count
-     * @param more
+     * @param input 　内容
+     * @param count 　截取的长度
+     * @param more  　更多样式
      * @return
      */
     public static String cutString(String input, int count, String more) {
@@ -81,8 +81,8 @@ public final class StringUtils {
     /**
      * 获得指定中文长度对应的字符串长度，用于截取显示文字，一个中文等于两个英文
      *
-     * @param count
-     * @param string
+     * @param count　
+     * @param string　
      * @return
      */
     public static int chinese_2_StringLenth(String string, int count) {
@@ -109,7 +109,7 @@ public final class StringUtils {
     /**
      * 检测字符串中是否包含汉字
      *
-     * @param sequence
+     * @param sequence　数据
      * @return
      */
     public static boolean checkChinese(String sequence) {
@@ -248,7 +248,7 @@ public final class StringUtils {
     /**
      * 数据库字符转义
      *
-     * @param keyWord
+     * @param keyWord　数据
      * @return
      */
     public static String sqliteEscape(String keyWord) {
