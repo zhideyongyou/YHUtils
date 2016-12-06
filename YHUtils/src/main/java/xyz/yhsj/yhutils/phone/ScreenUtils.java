@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.WindowManager;
 
 /**
- * 屏幕 工具类<br>
+ * 屏幕 工具类<br>　
  *
  */
 public class ScreenUtils {

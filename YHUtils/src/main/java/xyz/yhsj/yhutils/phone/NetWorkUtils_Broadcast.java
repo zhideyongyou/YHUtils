@@ -9,7 +9,7 @@ import android.net.ConnectivityManager;
 /**
  * 用于实时监测网络变化的工具类，用广播用，使用时请注意注册广播和设置监听器
  * 
- * Created by LOVE on 2015/5/5 005.
+ * Created by LOVE on 2015/5/5 005.　
  */
 public class NetWorkUtils_Broadcast {
 

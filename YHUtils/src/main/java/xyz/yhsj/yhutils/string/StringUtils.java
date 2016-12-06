@@ -13,7 +13,7 @@ import android.annotation.SuppressLint;
 public final class StringUtils {
 
     /**
-     * 判断字符串是否为null或""
+     * 判断字符串是否为null或""　
      *
      * @param str
      * @return 为空或null返回true，否则返回false

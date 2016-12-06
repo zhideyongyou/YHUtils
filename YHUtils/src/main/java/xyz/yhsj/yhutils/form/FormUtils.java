@@ -27,7 +27,7 @@ import android.widget.TableLayout;
  */
 @SuppressWarnings("deprecation")
 public class FormUtils {
-	/**
+	/**　
 	 * 获取表单的数据（根据Tag获取控件：键-值，返回json格式）
 	 * 
 	 * @param root

@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * Created by clf on 15/9/22.
+ * Created by clf on 15/9/22.　
  */
 public class CpuUtils {
 	/**

@@ -19,7 +19,7 @@ import xyz.yhsj.yhutils.logutils.LogUtils;
 
 
 /**
- * 获取手机信息工具类<br>
+ * 获取手机信息工具类<br>　
  * 需要"android.permission.READ_PHONE_STATE"权限
  */
 public class DeviceUtils {

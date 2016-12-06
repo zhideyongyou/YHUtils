@@ -8,7 +8,7 @@ import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 
 /**
- * SharedPreferences 工具类
+ * SharedPreferences 工具类　
  * 
  */
 public class SharePreferenceUtil {

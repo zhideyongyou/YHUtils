@@ -222,7 +222,7 @@ public class DateUtils {
      * @param minute
      * @param second
      * @param format
-     * @return 自定义
+     * @return 自定义　
      */
     public static String getTimePoint(int year, int month, int day, int hour,
                                       int minute, int second, String format) {

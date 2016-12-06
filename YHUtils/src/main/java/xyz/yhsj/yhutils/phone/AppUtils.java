@@ -17,7 +17,7 @@ import java.util.List;
 import xyz.yhsj.yhutils.logutils.LogUtils;
 
 /**
- * APP 工具类<br>
+ * APP 工具类<br>　
  */
 public class AppUtils {
 

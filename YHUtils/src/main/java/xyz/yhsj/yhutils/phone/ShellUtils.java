@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.util.List;
 
 /**
- * ShellUtils
+ * ShellUtils　
  * <ul>
  * <strong>Check root</strong>
  * <li>{@link ShellUtils#checkRootPermission()}</li>

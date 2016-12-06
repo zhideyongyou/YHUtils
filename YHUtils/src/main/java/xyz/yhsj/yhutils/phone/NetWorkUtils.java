@@ -60,7 +60,7 @@ public class NetWorkUtils {
 	}
 
 	/**
-	 * 打开网络设置界面
+	 * 打开网络设置界面　
 	 */
 	public static void openSetting(Activity activity) {
 		Intent intent = null;

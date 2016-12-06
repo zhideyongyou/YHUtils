@@ -14,7 +14,7 @@ import java.io.OutputStreamWriter;
 import android.content.Context;
 
 /**
- * IO流 工具类<br>
+ * IO流 工具类<br>　
  * 很简单,仅支持文本操作
  * 
  */

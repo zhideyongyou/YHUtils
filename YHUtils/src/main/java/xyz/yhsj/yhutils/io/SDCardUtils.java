@@ -77,7 +77,7 @@ public class SDCardUtils {
     }
 
     /**
-     * 获取外部存储设备的总空间大小
+     * 获取外部存储设备的总空间大小　
      */
     public static long getSDCardTotalSize(Context context) {
         if (isSDCardEnable()) {

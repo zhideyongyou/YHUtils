@@ -63,7 +63,7 @@ public class DES3Utils {
 
 
     /*
-     * 根据字符串生成密钥字节数组
+     * 根据字符串生成密钥字节数组　
      * @param keyStr 密钥字符串
      * @return
      * @throws UnsupportedEncodingException

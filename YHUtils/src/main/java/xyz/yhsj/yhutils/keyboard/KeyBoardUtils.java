@@ -26,7 +26,7 @@ public class KeyBoardUtils {
      * 关闭软键盘
      *
      * @param mEditText 输入框(好像关系不大)
-     * @param mContext  上下文
+     * @param mContext  上下文　
      */
     public static void closeKeybord(EditText mEditText, Context mContext) {
         InputMethodManager imm = (InputMethodManager) mContext

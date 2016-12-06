@@ -8,7 +8,7 @@ import android.os.Environment;
 
 /**
  * 本应用数据清除管理器
- * Created by clf on 15/10/17.
+ * Created by clf on 15/10/17.　
  */
 public class AppDataUtils {
     /**

@@ -20,7 +20,7 @@ public class SystemUtil {
             "float", "double", "long", "short", "byte"};
 
     /**
-     * 将对象转化为String
+     * 将对象转化为String　
      *
      * @param object
      * @return

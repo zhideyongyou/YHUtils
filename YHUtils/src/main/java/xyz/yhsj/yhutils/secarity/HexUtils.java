@@ -4,7 +4,7 @@ import java.nio.charset.Charset;
 
 /**
  * Desction:
- * Author:pengjianbo
+ * Author:pengjianbo　
  * Date:15/12/9 上午11:08
  */
 public class HexUtils {

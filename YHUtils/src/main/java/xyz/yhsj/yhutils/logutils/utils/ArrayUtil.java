@@ -11,7 +11,7 @@ import java.util.Arrays;
 public final class ArrayUtil {
 
     /**
-     * 获取数组的纬度
+     * 获取数组的纬度　
      *
      * @param objects
      *

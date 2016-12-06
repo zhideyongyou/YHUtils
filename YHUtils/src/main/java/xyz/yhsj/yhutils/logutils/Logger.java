@@ -294,7 +294,7 @@ public final class Logger implements Printer {
 	}
 
 	/**
-	 * dialog事件处理
+	 * dialog事件处理　
 	 */
 	private DialogInterface.OnClickListener listener = new DialogInterface.OnClickListener() {
 		@Override

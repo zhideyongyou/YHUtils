@@ -12,7 +12,7 @@ import android.provider.Settings;
 public class LocationUtils {
 
 	/**
-	 * 是否允许模拟定位
+	 * 是否允许模拟定位　
 	 * 
 	 * @param context
 	 * @return

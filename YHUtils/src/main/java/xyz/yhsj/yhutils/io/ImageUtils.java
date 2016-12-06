@@ -64,7 +64,7 @@ public class ImageUtils {
     /**
      * 保存图片
      *
-     * @param filePath 文件路径+文件名
+     * @param filePath 文件路径+文件名　
      * @param bitmap  文件内容
      * @throws IOException
      */

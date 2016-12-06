@@ -8,7 +8,7 @@ import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.DESKeySpec;
 
 /**
- * Desction:DES对称加/解密
+ * Desction:DES对称加/解密　
  * Author:pengjianbo
  * Date:15/12/8 下午10:32
  */

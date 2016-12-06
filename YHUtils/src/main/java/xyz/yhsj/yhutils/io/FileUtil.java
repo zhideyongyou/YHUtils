@@ -3,7 +3,7 @@ package xyz.yhsj.yhutils.io;
 import java.text.DecimalFormat;
 
 /**
- * Created by wangkuan on 15/10/13.
+ * Created by wangkuan on 15/10/13.　
  */
 public class FileUtil {
 

@@ -8,7 +8,7 @@ import android.content.res.AssetManager;
 import android.graphics.drawable.Drawable;
 
 /**
- * Asset 工具类<br>
+ * Asset 工具类<br>　
  */
 @SuppressWarnings("deprecation")
 public class AssetUtils {

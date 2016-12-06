@@ -265,7 +265,7 @@ public class ResouceUtil {
 
     /**
      * color
-     *
+     *　
      * @param context Context
      * @param resName color 名称
      * @return

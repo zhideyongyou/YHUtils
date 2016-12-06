@@ -5,7 +5,7 @@ import java.lang.reflect.Type;
 
 /**
  * 获取泛型
- * Created by LOVE on 2015/12/25.
+ * Created by LOVE on 2015/12/25.　
  */
 public class ClassUtils {
 
